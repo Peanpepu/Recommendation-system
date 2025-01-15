@@ -1,0 +1,10 @@
+pandas
+numpy==2.0
+tensorflow[and-cuda]==2.13.0
+seaborn
+pip install recommenders
+sentence-transformers
+faiss-gpu
+
+
+CUDA toolkit version 11.8 and cuDNN version 8.7
